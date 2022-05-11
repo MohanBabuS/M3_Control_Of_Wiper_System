@@ -1,5 +1,5 @@
 # INTRODUCTION
- 
+  The operational speed of a wiper is controlled by a wiper speed control system in accordance with frequencies. The pulse signal is digitally processed to provide a control signal. A wiper driver circuit receives the control signal and adjusts the operational speed or timing in line with it.
 # SOFTWARE REQUIREMENTS
  STM32 CUBE IDE
 # COMPONENTS
@@ -18,6 +18,17 @@
  # USES
   * This Microcontroller is utilised in printing and scanning machines ,heat ventilation, air conditioning, and security systems. 
   * This module can be found in a variety of household products.
- #
+ # WORKING PRINCIPLE
+  Assume that the automobile is the microcontroller. If the button is hit, the first led (red) will turn on, Clicking again  the wiper will start, and the second led (blue) will turn on for a desired rate. If the button is pressed again, the third led (green) will turn on, and the wiper's speed will be increased in comparison to the previous one. The fourth press will turn on the fourth led (orange), and the wiper speed will be increased in accordance with the previous one. The microcontroller (vehicle) is turned off after the fifth click.
+ ## 4 WH'S
+ # WHAT IS WIPER SYSTEM
+  Windscreen wipers are necessary for maintaining sufficient view for the driver, especially in modern high-speed cars.
+ # WHY WIPER SYSTEM
+   To keep the windscreen clean enough to give adequate view at all times.
+ # WHEN SHOULD USE WIPER SYSTEM 
+  The windshield wipers remove rain and snow from the windshield, while the headlights improve visibility at night.
+ # WHO DISCOVERED WIPER SYSTEM
+  Mark Anderson invented on 1902
+   
   
  
