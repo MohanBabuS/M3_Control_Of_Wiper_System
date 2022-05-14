@@ -32,6 +32,20 @@
   The windshield wipers remove rain and snow from the windshield, while the headlights improve visibility at night.
  # WHO DISCOVERED WIPER SYSTEM
   Mark Anderson invented on 1902
+  
+  ## SWOT ANALYSIS
+ # STRENGTH
+  * Low Budget
+  * REputation is Good
+ # WEAKNESS
+  * structural interia
+  * high transcation cost
+ # OPPRONUNTIES
+  * Emerging new market
+  * Demand for save Equipments
+ # THREAT
+  * Low bargaining power buyers
+  * Econimical crisis 
 #  ENGINE ON STATE
 ![engine start](https://user-images.githubusercontent.com/74193913/168195223-4ffe543a-e10e-4558-8f71-7fb72f42b8bf.png)
 
