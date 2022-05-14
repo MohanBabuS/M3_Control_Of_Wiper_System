@@ -10,7 +10,8 @@
 ![wiper start](https://user-images.githubusercontent.com/74193913/168195256-babaf133-6f22-4961-be93-fd78d63f2ae4.png)
 
 # WIPER SPEED IS HIGH
-![HIGH](https://user-images.githubusercontent.com/74193913/168207493-3c120a56-da8b-4e6d-a229-3107ec348395.png)
+![high](https://user-images.githubusercontent.com/74193913/168425891-a3e08156-a31f-4be1-b712-4fb85fc73b46.png)
+
 
 
 # OFF STATE
