@@ -32,6 +32,27 @@
   The windshield wipers remove rain and snow from the windshield, while the headlights improve visibility at night.
  # WHO DISCOVERED WIPER SYSTEM
   Mark Anderson invented on 1902
+ ## DETAIL REQUIREMENTS :
+
+# HIGHLEVEL REQUIREMENTS 
+
+|High Level Requirements|Description|
+|:------|:---------|
+|1|Programming language(C language)|
+|2|Arm based microcontroller(STM32F40VGT6)|
+|3|operating system(Windows)|
+|4|RAM(Min 4GB)|
+|5|Hard Disk(Min 250GB)|
+
+# LOWLEVEL REQUIREMENTS
+
+|Low Level Reqiurements|Description|Status|
+|:-----|:--------|:---|
+|1|ON-Ignition key|Implemented|
+|2|Press Multi-functional button|Implemented|
+|3|4 Different Color Leds|Implemented|
+|4|Timer|Implemented|
+|5|OFF-Wiper button|Implemented| 
   
   ## SWOT ANALYSIS
  # STRENGTH
